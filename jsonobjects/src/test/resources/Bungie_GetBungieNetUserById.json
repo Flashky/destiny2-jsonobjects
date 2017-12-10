@@ -1,0 +1,37 @@
+{
+	"Response": {
+		"membershipId": "15697709",
+		"uniqueName": "15697709",
+		"displayName": "FLASHk_13",
+		"profilePicture": 70525,
+		"profileTheme": 1103,
+		"userTitle": 0,
+		"successMessageFlags": "0",
+		"isDeleted": false,
+		"about": "",
+		"firstAccess": "2017-09-09T12:32:11.866Z",
+		"lastUpdate": "2017-09-11T23:25:38.388Z",
+		"context": {
+			"isFollowing": false,
+			"ignoreStatus": {
+				"isIgnored": false,
+				"ignoreFlags": 1
+			}
+		},
+		"psnDisplayName": "FLASHk_13",
+		"showActivity": true,
+		"locale": "en",
+		"localeInheritDefault": false,
+		"showGroupMessaging": true,
+		"profilePicturePath": "/img/profile/avatars/bungieday_03.jpg",
+		"profileThemeName": "d2_03",
+		"userTitleDisplay": "Newbie",
+		"statusText": "",
+		"statusDate": "0001-01-01T00:00:00Z"
+	},
+	"ErrorCode": 1,
+	"ThrottleSeconds": 0,
+	"ErrorStatus": "Success",
+	"Message": "Ok",
+	"MessageData": {}
+}
